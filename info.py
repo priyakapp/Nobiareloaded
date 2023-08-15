@@ -67,12 +67,12 @@ APPROVED = environ.get("APPROVED_WELCOME", "on").lower()
 
 # Others
 IS_VERIFY = is_enabled((environ.get('IS_VERIFY', 'False')), False)
-HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', "https://t.me/Verifying5754/3")
-VERIFY2_URL = environ.get('VERIFY2_URL', "tinyfy.in")
-VERIFY2_API = environ.get('VERIFY2_API', "055056697b8fa8d08a3d7681f4e7ed36222d8235")
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'tinyfy.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', '055056697b8fa8d08a3d7681f4e7ed36222d8235')
-IS_SHORTLINK = is_enabled((environ.get('IS_SHORTLINK', 'False')),True)
+HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', "https://t.ly/THTA")
+VERIFY2_URL = environ.get('VERIFY2_URL', "pandaznetwork.com")
+VERIFY2_API = environ.get('VERIFY2_API', "419cb90d779f81df6bb97edd5ecdf7fdf5b7f9cb")
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'pandaznetwork.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', '419cb90d779f81df6bb97edd5ecdf7fdf5b7f9cb')
+IS_SHORTLINK = is_enabled((environ.get('IS_SHORTLINK', 'False')), False)
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "5")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
