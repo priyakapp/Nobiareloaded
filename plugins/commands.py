@@ -27,7 +27,7 @@ async def start(client, message):
                     InlineKeyboardButton('🧑‍💻 Oᴡɴᴇʀ', callback_data= "owner_info"),
                     InlineKeyboardButton('🌿 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', callback_data='money_bot')
                 ],[
-                    InlineKeyboardButton('❗️Hᴇʟᴘ', callback_data='help'),
+                    InlineKeyboardButton('❗️ғᴇᴀᴛᴜʀᴇs', callback_data='help'),
                     InlineKeyboardButton('🍁 Aʙᴏᴜᴛ', callback_data='about')
         ],[
             InlineKeyboardButton('Search here', switch_inline_query_current_chat=query)
@@ -55,7 +55,7 @@ async def start(client, message):
                     InlineKeyboardButton('🧑‍💻 Oᴡɴᴇʀ', callback_data= "owner_info"),
                     InlineKeyboardButton('🌿 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', callback_data='money_bot')
                 ],[
-                    InlineKeyboardButton('❗️Hᴇʟᴘ', callback_data='help'),
+                    InlineKeyboardButton('❗️ғᴇᴀᴛᴜʀᴇs', callback_data='help'),
                     InlineKeyboardButton('🍁 Aʙᴏᴜᴛ', callback_data='about')
         ],[
             InlineKeyboardButton('Search here', switch_inline_query_current_chat=query)
@@ -106,7 +106,7 @@ async def start(client, message):
                     InlineKeyboardButton('🧑‍💻 Oᴡɴᴇʀ', callback_data= "owner_info"),
                     InlineKeyboardButton('🌿 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', callback_data='money_bot')
                 ],[
-                    InlineKeyboardButton('❗️Hᴇʟᴘ', callback_data='help'),
+                    InlineKeyboardButton('❗️ғᴇᴀᴛᴜʀᴇs', callback_data='help'),
                     InlineKeyboardButton('🍁 Aʙᴏᴜᴛ', callback_data='about')
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
