@@ -8,7 +8,7 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>,ɪ ᴀᴍ ᴀ ᴘᴏᴡᴇʀꜰ
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>🤖 Mʏ Nᴀᴍᴇ: {}
-🧑 Cʀᴇᴀᴛᴏʀ Bᴏʏ: <a href='https://t.me/LiveTeleBots'>LiveTeleBots</a>
+🧑 Cʀᴇᴀᴛᴏʀ Bᴏʏ: <a href='https://t.me/NobitaReborn'>Nᴏʙɪᴛᴀ ∆ Oғғɪᴄɪᴀʟ</a>
 📚 Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 🗣 Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 🌐 DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
@@ -19,7 +19,7 @@ Tʜɪꜱ Bᴏᴛ Iꜱ Aɴ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
 
 Aʟʟ Tʜᴇ Fɪʟᴇꜱ Iɴ Tʜɪꜱ Bᴏᴛ Aʀᴇ Fʀᴇᴇʟʏ Aᴠᴀɪʟᴀʙʟᴇ Oɴ Tʜᴇ Iɴᴛᴇʀɴᴇᴛ Oʀ Pᴏꜱᴛᴇᴅ Bʏ Sᴏᴍᴇʙᴏᴅʏ Eʟꜱᴇ. Tʜɪꜱ Bᴏᴛ Iꜱ Iɴᴅᴇxɪɴɢ Fɪʟᴇꜱ Wʜɪᴄʜ Aʀᴇ Aʟʀᴇᴀᴅʏ Uᴘʟᴏᴀᴅᴇᴅ Oɴ Tᴇʟᴇɢʀᴀᴍ Fᴏʀ Eᴀꜱʏ Oғ Sᴇᴀʀᴄʜɪɴɢ, Wᴇ Rᴇꜱᴘᴇᴄᴛ Aʟʟ  Iғ Aɴʏᴛʜɪɴɢ Iꜱ Pʟᴇᴀꜱᴇ Cᴏɴᴛᴀᴄᴛ Uꜱ Sᴏ Tʜᴀᴛ Iᴛ Cᴀɴ Bᴇ Rᴇᴍᴏᴠᴇᴅ Aꜱᴀᴘ. Iᴛ Iꜱ Fᴏʀʙɪᴅᴅᴇɴ Tᴏ Dᴏᴡɴʟᴏᴀᴅ, Sᴛʀᴇᴀᴍ, Rᴇᴘʀᴏᴅᴜᴄᴇ, Oʀ Bʏ Aɴʏ Mᴇᴀɴꜱ, Sʜᴀʀᴇ, Oʀ Cᴏɴꜱᴜᴍᴇ, Cᴏɴᴛᴇɴᴛ Wɪᴛʜᴏᴜᴛ Exᴘʟɪᴄɪᴛ Pᴇʀᴍɪꜱꜱɪᴏɴ Fʀᴏᴍ Tʜᴇ Cᴏɴᴛᴇɴᴛ Cʀᴇᴀᴛᴏʀ Oʀ Iғ Yᴏᴜ Bᴇʟɪᴇᴠᴇ Tʜɪꜱ Bᴏᴛ Iꜱ  Cᴏɴᴛᴀᴄᴛ Tʜᴇ Rᴇꜱᴘᴇᴄᴛɪᴠᴇ Cʜᴀɴɴᴇʟꜱ Fᴏʀ Rᴇᴍᴏᴠᴀʟ. Tʜᴇ Bᴏᴛ Dᴏᴇꜱ Nᴏᴛ Oᴡɴ Aɴʏ Oғ Tʜᴇꜱᴇ Cᴏɴᴛᴇɴᴛꜱ, Iᴛ Oɴʟʏ Iɴᴅᴇx Tʜᴇ Fɪʟᴇꜱ Fʀᴏᴍ Tᴇʟᴇɢʀᴀᴍ.
 
- LiveTeleBots:<a href='https://t.me/LiveTeleBots'</b>"""
+ Nᴏʙɪᴛᴀ ∆ Oғғɪᴄɪᴀʟ:<a href='https://t.me/+H2lwzPtgkHk3MGNl'</b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -40,7 +40,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/LiveTeleBots)</code>
+<code>[Button Text](buttonurl:https://t.me/+H2lwzPtgkHk3MGNl)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -84,7 +84,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 ⏭️ /song 𝚂𝙾𝙽𝙶 𝙽𝙰𝙼𝙴 
 
 <b>𝚆𝙾𝚁𝙺𝚂 𝙱𝙾𝚃𝙷 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙿𝙼</b>
-@LiveTeleBots"""
+@NobitaReborn"""
 
     VIDEO_TXT = """𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝚅𝙸𝙳𝙴𝙾 𝙵𝚁𝙾𝙼 𝚈𝙾𝚄𝚃𝚄𝙱𝙴.
 • 𝘜𝘴𝘢𝘨𝘦
@@ -163,7 +163,7 @@ To Get Sticker ID
 <b>COMMAND</b> : /font your text (optional)
         <b> Eg:- /font Hello</b>
 
- <i>This feature added by @LiveTeleBots"""
+ <i>"""
     JSON_TXT = """<b>JSON:</b>
 Bot returns json for all replied messages with /json or /js
 <b>Features:</b>
@@ -226,7 +226,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 🆓 ғʀᴇᴇ sᴛᴏʀᴀɢᴇ: <code>{}</code> 𝙼𝚒𝙱</b>"""
 
     LOG_TEXT_G = """#NewGroup
-Nᴀʀᴜᴛᴏ Aʟɪᴠᴇ Iɴ Gʀᴏᴜᴘ = {}(<code>{}</code>)
+Pixtar Aʟɪᴠᴇ Iɴ Gʀᴏᴜᴘ = {}(<code>{}</code>)
 Tᴏᴛᴀʟ Mᴇᴍʙᴇʀs = <code>{}</code>
 Aᴅᴅᴇᴅ Bʏ 👉- {}"""
 
@@ -274,9 +274,9 @@ Nᴀᴍᴇ 🧑- {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : LiveTeleBots
-• ᴜꜱᴇʀɴᴀᴍᴇ :@LiveTeleBots
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/bhaiyajihubbot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : Nᴏʙɪᴛᴀ ∆ Oғғɪᴄɪᴀʟ
+• ᴜꜱᴇʀɴᴀᴍᴇ :@nobitareborn
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/nobitareborn'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -316,7 +316,7 @@ Nᴀᴍᴇ 🧑- {}"""
     CAPTION = """
 <b>Fɪʟᴇꜱ Sɪᴢᴇ : </b> <code>{file_size}</code>
 <b>Fɪʟᴇ ɴᴀᴍᴇ  : </b> <code>{file_name}</code>  
-🧨 | Powered by @Bhaiyajihub ❤️
+🧨 | Powered by @PixtarXd ❤️
   </b>"""
 
     IMDB_TEMPLATE_TXT = """
@@ -401,7 +401,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Bihar</code>
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 
-    LOGO = """https://t.me/LiveTeleBots"""
+    LOGO = """https://t.me/+H2lwzPtgkHk3MGNl"""
 
 EARN_TXT = """
 <b>──────「 <a href='https://t.me/LiveTeleBots'>LiveTeleBots</a> 」─────
