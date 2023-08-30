@@ -30,7 +30,7 @@ async def start(client, message):
                     InlineKeyboardButton('❗️ғᴇᴀᴛᴜʀᴇs', callback_data='help'),
                     InlineKeyboardButton('🍁 Aʙᴏᴜᴛ', callback_data='about')
         ],[
-            InlineKeyboardButton('Search here', switch_inline_query_current_chat=query)
+            InlineKeyboardButton('🔍Search here', switch_inline_query_current_chat'')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
