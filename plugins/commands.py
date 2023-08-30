@@ -58,7 +58,7 @@ async def start(client, message):
                     InlineKeyboardButton('❗️ғᴇᴀᴛᴜʀᴇs', callback_data='help'),
                     InlineKeyboardButton('🍁 Aʙᴏᴜᴛ', callback_data='about')
         ],[
-            InlineKeyboardButton('Search here', switch_inline_query_current_chat=query)
+            InlineKeyboardButton('Search here', switch_inline_query_current_chat)
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         m=await message.reply_sticker("CAACAgUAAxkBAAEO4Z1j4esV6RI_wiknekQK9lNUBHLsQgACLwkAAgkAAYlWR0Qtzs9OLr0uBA") 
