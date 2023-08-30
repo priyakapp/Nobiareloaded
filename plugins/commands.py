@@ -29,9 +29,7 @@ async def start(client, message):
                 ],[
                     InlineKeyboardButton('❗️Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('🍁 Aʙᴏᴜᴛ', callback_data='about')
-                ],[
-                    InlineKeyboardButton('💰𝙴ᴀʀɴ 𝙼ᴏɴᴇʏ 𝚆ɪᴛʜ 𝙱ᴏᴛ 💸', callback_data='dash')
-                  ]]
+        ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
             photo=random.choice(PICS),
@@ -57,11 +55,9 @@ async def start(client, message):
                 ],[
                     InlineKeyboardButton('❗️Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('🍁 Aʙᴏᴜᴛ', callback_data='about')
-                ],[
-                    InlineKeyboardButton('💰𝙴ᴀʀɴ 𝙼ᴏɴᴇʏ 𝚆ɪᴛʜ 𝙱ᴏᴛ 💸', callback_data='dash')
-                  ]]
+        ]]
         reply_markup = InlineKeyboardMarkup(buttons)
-        m=await message.reply_sticker("CAACAgUAAxkBAAICRmSq1NCa7IRTH_iz1PyxlTD_CG8aAAIEAAPBJDExieUdbguzyBAeBA") 
+        m=await message.reply_sticker("CAACAgUAAxkBAAEO4Z1j4esV6RI_wiknekQK9lNUBHLsQgACLwkAAgkAAYlWR0Qtzs9OLr0uBA") 
         await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(
@@ -108,8 +104,6 @@ async def start(client, message):
                 ],[
                     InlineKeyboardButton('❗️Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('🍁 Aʙᴏᴜᴛ', callback_data='about')
-                ],[
-                    InlineKeyboardButton('💰𝙴ᴀʀɴ 𝙼ᴏɴᴇʏ 𝚆ɪᴛʜ 𝙱ᴏᴛ 💸', callback_data='dash')
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                   ]]
