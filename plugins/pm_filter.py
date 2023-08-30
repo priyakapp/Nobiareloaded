@@ -1147,10 +1147,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('🧑‍💻 Oᴡɴᴇʀ', callback_data= "owner_info"),
                     InlineKeyboardButton('🌿 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', callback_data='money_bot')
                 ],[
-                    InlineKeyboardButton('❗️Hᴇʟᴘ', callback_data='help'),
+                    InlineKeyboardButton('❗️ғᴇᴀᴛᴜʀᴇs', callback_data='help'),
                     InlineKeyboardButton('🍁 Aʙᴏᴜᴛ', callback_data='about')
                 ],[
-                    InlineKeyboardButton('💰𝙴ᴀʀɴ 𝙼ᴏɴᴇʏ 𝚆ɪᴛʜ 𝙱ᴏᴛ 💸', callback_data='dash')
+                    InlineKeyboardButton('🔍 Search Here', switch_inline_query_current_chat='')
                   ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
