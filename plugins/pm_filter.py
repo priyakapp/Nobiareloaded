@@ -1150,7 +1150,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('❗️ғᴇᴀᴛᴜʀᴇs', callback_data='help'),
                     InlineKeyboardButton('🍁 Aʙᴏᴜᴛ', callback_data='about')
                 ],[
-                    InlineKeyboardButton('🔍 Search Here', switch_inline_query_current_chat='')
+                    InlineKeyboardButton('🔍 Search Here', url='https://t.me/PixtarXd')
                   ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
